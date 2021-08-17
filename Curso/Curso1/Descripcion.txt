@@ -1,0 +1,10 @@
+Primer entregable:
+
+1-. Paso importante: 
+||Instalar nodeJS en la maquina desde su pagina principal.||
+
+2.- Contenido del programa:
+
+- Creación de un arreglo en javaScript
+- Leer un array en javaScript
+- Agregar un contador al array
